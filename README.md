@@ -1,6 +1,4 @@
 # chatbot
-Sure! Here's a `README.md` for your GitHub repository that explains how to finetune the Llama2 model from Hugging Face locally and customize it for a chatbot with a dataset containing queries and responses:
-
 ```markdown
 # Finetuning Llama2 for Personalized College Chatbot
 
@@ -164,5 +162,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Hugging Face](https://huggingface.co) for providing the pre-trained Llama models.
 - [AutoTrain](https://huggingface.co/autotrain) for simplifying the training process.
 ```
-
-This `README.md` provides a clear guide on how to set up the environment, prepare your data, and finetune the Llama2 model for a personalized college chatbot. Let me know if you need further adjustments or explanations!
